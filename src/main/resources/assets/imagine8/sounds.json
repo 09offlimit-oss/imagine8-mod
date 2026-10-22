@@ -1,0 +1,10 @@
+{
+  "chase_loop": {
+    "sounds": [ { "name": "imagine8:chase_loop", "stream": false } ],
+    "subtitle": "subtitles.imagine8.chase_loop"
+  },
+  "jumpscare": {
+    "sounds": [ { "name": "imagine8:jumpscare", "stream": false } ],
+    "subtitle": "subtitles.imagine8.jumpscare"
+  }
+}
